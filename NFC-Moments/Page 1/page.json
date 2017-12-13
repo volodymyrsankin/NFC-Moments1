@@ -34,11 +34,19 @@
   "layers": [
     {
       "class": "symbolMaster",
-      "id": "EA377A4E-5717-421D-B023-3DB065CEED7C"
+      "id": "F1445F4B-166E-4D95-946F-D0684682D3A9"
     },
     {
       "class": "symbolMaster",
-      "id": "F1445F4B-166E-4D95-946F-D0684682D3A9"
+      "id": "C161A2AA-A6B8-4213-B3A6-113838C33520"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "57DA4300-A2E4-4AC5-925F-C79E396FDE81"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "CA90B78F-FA60-401C-9722-7142B2D39914"
     },
     {
       "class": "symbolMaster",
@@ -46,7 +54,15 @@
     },
     {
       "class": "symbolMaster",
-      "id": "56E23DA9-F89C-467E-B860-DB22F4266818"
+      "id": "6A5FA201-EBB4-427E-97A0-C54427E9256C"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "FC1C2117-8B58-4196-85F6-8E988BC1C357"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "F6E5A224-C63A-4C8A-BCFE-6A2744D00FF9"
     },
     {
       "class": "symbolMaster",

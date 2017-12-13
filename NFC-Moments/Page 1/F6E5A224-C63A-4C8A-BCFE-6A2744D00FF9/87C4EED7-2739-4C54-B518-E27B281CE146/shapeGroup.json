@@ -1,7 +1,7 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "28A73B26-7CF5-45BB-8362-5FE881B4485D",
+  "do_objectID": "87C4EED7-2739-4C54-B518-E27B281CE146",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -29,7 +29,7 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "DC9300A2-ACB3-4A5A-8FF4-E383DBA5BAFD"
+      "id": "6BFC5699-97B4-41CC-8213-BCC9E8BF2E85"
     }
   ],
   "name": "Rectangle Copy 2",
@@ -63,9 +63,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.7101934523809523,
-          "green": 0.7101934523809523,
-          "red": 0.7101934523809523
+          "blue": 0.8274509803921568,
+          "green": 0.8274509803921568,
+          "red": 0.8274509803921568
         },
         "fillType": 0,
         "isEnabled": true,
