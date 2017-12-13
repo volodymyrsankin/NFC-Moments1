@@ -7,8 +7,8 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 9494,
-  "do_objectID": "CA90B78F-FA60-401C-9722-7142B2D39914",
+  "changeIdentifier": 9534,
+  "do_objectID": "0B53D5BB-E32F-4FC5-A091-8451A527D5AA",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,11 +23,11 @@
     "constrainProportions": false,
     "height": 24,
     "width": 24,
-    "x": 1142,
+    "x": 1180,
     "y": 659
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -45,10 +45,10 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "416BEC14-019B-426A-97CE-1DA83B502BFD"
+      "id": "096E8338-BA20-4C9B-BEF0-F2BC8B2DD52E"
     }
   ],
-  "name": "fill/midgray copy 3",
+  "name": "fill/midgray copy 4",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -61,7 +61,7 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "3F1F86D6-5DB7-4B3B-871A-7F631A927523",
+  "symbolID": "3644163C-E8EC-4239-8C60-26D7CE53A4D3",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

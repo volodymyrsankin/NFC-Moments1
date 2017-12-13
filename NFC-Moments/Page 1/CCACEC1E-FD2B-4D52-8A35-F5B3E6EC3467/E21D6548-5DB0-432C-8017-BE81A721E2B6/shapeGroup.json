@@ -1,7 +1,7 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "416BEC14-019B-426A-97CE-1DA83B502BFD",
+  "do_objectID": "E21D6548-5DB0-432C-8017-BE81A721E2B6",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -29,7 +29,7 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "46456C43-8A2E-40B9-AB2E-33A03617EBCF"
+      "id": "C5A7CD64-E878-4910-A442-E6C1D5B2566D"
     }
   ],
   "name": "Rectangle Copy 2",
